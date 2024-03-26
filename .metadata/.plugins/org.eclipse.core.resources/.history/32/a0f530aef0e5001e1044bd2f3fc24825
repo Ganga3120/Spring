@@ -1,0 +1,11 @@
+package com.sathya.spring;
+import java.util.*;
+public class Test {
+
+	public static void main(String[] args) {
+ Employee employee=new Employee(1,"ganga",50000.90);
+ System.out.println(employee);
+ 		
+	}
+
+}

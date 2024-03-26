@@ -1,0 +1,8 @@
+package com.sathya.spring;
+
+
+public class Employee {
+ private int empid;
+ private String empname;
+ private double empsalary;
+}
